@@ -3,21 +3,9 @@
 #### 介绍
 时雨星空的全自动云崽bot
 
-#### 软件架构
-软件架构说明
-
-
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+bash  <(curl -L https://gitee.com/al412827/yunzai-bot/blob/master/bot.sh)
 
 #### 参与贡献
 
